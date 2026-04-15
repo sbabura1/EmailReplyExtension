@@ -1,0 +1,24 @@
+# Workspace
+.vscode/
+.m2/
+Extension/
+
+# Spring Boot
+email-writer-sb/target/
+email-writer-sb/.idea/
+email-writer-sb/src/main/resources/application.properties
+email-writer-sb/.apt_generated
+email-writer-sb/.classpath
+email-writer-sb/.factorypath
+email-writer-sb/.project
+email-writer-sb/.settings/
+email-writer-sb/.springBeans
+email-writer-sb/.sts4-cache
+email-writer-sb/*.iws
+email-writer-sb/*.iml
+email-writer-sb/*.ipr
+email-writer-sb/build/
+
+# OS
+Thumbs.db
+.DS_Store
