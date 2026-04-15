@@ -1,7 +1,6 @@
 # Workspace
 .vscode/
 .m2/
-Extension/
 
 # Spring Boot
 email-writer-sb/target/
